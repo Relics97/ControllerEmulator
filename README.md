@@ -115,4 +115,4 @@ For personal use with Battlefield VI and similar games.
 
 ## Author
 
-Created for enhanced gaming experience with controller-only lobbies.
+Relics97
